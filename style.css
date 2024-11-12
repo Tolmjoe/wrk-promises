@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+    
+}
+
+#squareboard {
+    background-color: brown;
+    width: 350px; height: 250px;
+    display: flex;
+}
+
+.square {
+    background-color: blanchedalmond;
+    width: 50px; height: 50px;
+    border: 2px solid black;
+    position:relative;
+}
